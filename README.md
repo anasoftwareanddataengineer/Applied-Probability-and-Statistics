@@ -1,5 +1,7 @@
 # AppliedProbabilityAndStatistics
  
+ load_boston() dataset
+ 
 Application of regression analysis (linear, multiple, as well as nonlinear (e.g polynomial)) 
 
 Estimation of the unconditional and conditional probabilities,
